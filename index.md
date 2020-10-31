@@ -1,8 +1,16 @@
-# Welcome to my blog
+## I'm glad you're here! I have a few ideas for what this will be about
 
-## I'm glad you're here! This blog will contain my _thoughts_
+Here's a list of those ideas:
+* Coffee
+* Wine
+* Beer
+* Cooking
+* Running
+* Chess
+* Data
+* Data Viz
 
-To start, I spend most of my time hustling [Grillos](https://www.grillospickles.com/) pickles.
-I'll get into that more another day..
-
-I also do a ton of running. All of my training lives on my [Strava](https://www.strava.com/athletes/29768277)
+My morning always starts with coffee and waffles. 
+My favorite coffee roaster is [Broadsheet](https://www.broadsheetcoffee.com/) and my favorite waffles are [Egos](https://www.leggomyeggo.com/en_US/home.html)
+I spend most of my time hustling [Grillos](https://www.grillospickles.com/) pickles
+and I do a ton of running. All of my training lives on my [Strava](https://www.strava.com/athletes/29768277)
